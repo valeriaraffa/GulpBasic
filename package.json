@@ -1,0 +1,30 @@
+{
+  "name": "treehouse-gulp-course",
+  "version": "1.0.0",
+  "description": "Code for my Treehouse Gulp.js course!  June, 2015.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hdngr/treehouse-gulp-course"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdngr/treehouse-gulp-course/issues"
+  },
+  "homepage": "https://github.com/hdngr/treehouse-gulp-course",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-sourcemaps": "^1.12.1",
+    "gulp-uglify": "^1.5.4"
+  },
+  "dependencies": {
+    "save-dev": "^2.0.0"
+  }
+}
